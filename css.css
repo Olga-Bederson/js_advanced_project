@@ -1,0 +1,26 @@
+.btn-cart {
+    align-items: center;
+    margin: 0 auto 0 45%;
+
+}
+
+.products {   
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+}
+.product-item {
+    border: 1px solid black;
+    align-items: center;
+    margin: auto auto auto 5%;
+}
+
+
+.buy-btn {
+    align-items: center;
+    margin: 5%;
+    
+}
+
